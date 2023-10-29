@@ -9,4 +9,5 @@
 </p>
 
 ## Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamanaka-kazuki&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamanaka-kazuki)](https://github.com/anuraghazra/github-readme-stats)
