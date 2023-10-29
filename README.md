@@ -1,4 +1,4 @@
-![image](https://github.com/yamanaka-kazuki/pokemon-silhouette-quiz/assets/117835118/dcd6ef5a-44b4-4160-b42e-af5f19e73da7)
+![image](https://github.com/yamanaka-kazuki/poke-silhouette-quiz/assets/117835118/bd0ebd66-e80d-4bd9-a20e-d07bf0c1f77b)
 
 ## サービスのURL
 
