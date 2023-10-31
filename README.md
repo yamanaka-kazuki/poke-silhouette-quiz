@@ -7,7 +7,7 @@
 ### 機能一覧
 
 ### 使用技術
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,react,tailwind,html,css,js,ts" />
   </a>
